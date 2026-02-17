@@ -1,0 +1,893 @@
+================================================================================
+         SOLSNIPER BOT - RAPPORT COMPLET DES TRANSACTIONS
+                    Mode: PAPER TRADING (Simulation)
+                    Date du rapport: 17/02/2026
+================================================================================
+
+================================================================================
+                        STATISTIQUES GLOBALES
+================================================================================
+
+  Nombre total de trades ........... 44
+  Trades gagnants .................. 21  (47.7%)
+  Trades perdants .................. 23  (52.3%)
+
+  Total gains ...................... +0.1515 SOL
+  Total pertes ..................... -0.0954 SOL
+  PnL NET .......................... +0.0561 SOL (POSITIF)
+
+  Investissement total ............. ~1.36 SOL
+  Retour total ..................... ~1.42 SOL
+  ROI global ....................... ~+4.1%
+
+  Meilleur trade ................... Momiage #2 (+59.76%)
+  Pire trade ....................... cap (-20.42%)
+  Gain max en SOL .................. PUMPMOON (+0.0179 SOL)
+  Perte max en SOL ................. cap (-0.0079 SOL)
+
+  Duree moyenne d'un trade ......... ~2.5 min
+  Trade le plus rapide ............. T2E (10 sec)
+  Trade le plus long ............... ORNG (11.2 min)
+
+  Score moyen ...................... 64.8
+
+================================================================================
+                    REPARTITION PAR RAISON DE CLOTURE
+================================================================================
+
+  STOP LOSS (14 trades)
+    Gagnants: 0  |  Perdants: 14  |  Taux: 0%
+    Perte moyenne: -16.9%
+    -> Le stop loss fait son travail: coupe les pertes rapidement
+
+  TRAILING STOP (8 trades)
+    Gagnants: 3  |  Perdants: 5  |  Taux: 37.5%
+    -> Performances mitigees, tendance a couper trop tot
+
+  DEAD VOLUME (22 trades)
+    Gagnants: 18  |  Perdants: 4  |  Taux: 81.8%
+    Gain moyen des gagnants: +21.4%
+    -> Meilleure categorie, les tokens meurent apres avoir monte
+
+================================================================================
+                    DETAIL DE CHAQUE TRANSACTION
+================================================================================
+
+--- TRADE #1 --------------------------------------------------------
+  Token:           PENNY
+  Adresse:         Ef7rqaq7a2jAGNQnPTg7fkRcQtehxkhfQ7p8ov5Ppump
+  Score:           67
+  Resultat:        PERTE
+
+  Prix entree:     0.000001310 SOL
+  Prix sortie:     0.000001174 SOL
+  Investi:         0.0324 SOL
+  Recupere:        0.0278 SOL
+  PnL:             -0.0046 SOL  (-14.20%)
+
+  Heure entree:    (timestamp 1771335539462)
+  Heure sortie:    (timestamp 1771335568631)
+  Duree:           29 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771335539462_6b96k5
+                   paper_sell_1771335568631_ln40ec
+
+--- TRADE #2 --------------------------------------------------------
+  Token:           William
+  Adresse:         DeYfUpNducuzSAkinZpWh9FeFj3Y856d5AZamZ3Wpump
+  Score:           63
+  Resultat:        GAIN
+
+  Prix entree:     0.000000675 SOL
+  Prix sortie:     0.000000797 SOL
+  Investi:         0.0306 SOL
+  Recupere:        0.0348 SOL
+  PnL:             +0.0042 SOL  (+13.83%)
+
+  Duree:           47 secondes
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771335922551_u1iizk
+                   paper_sell_1771335969599_el2vr7
+
+--- TRADE #3 --------------------------------------------------------
+  Token:           Cashew
+  Adresse:         AmP5WtXkrYGRUnuvG9QKYtBqJ1YtDwUK7xpx81gYpump
+  Score:           55
+  Resultat:        PERTE
+
+  Prix entree:     0.000000456 SOL
+  Prix sortie:     0.000000270 SOL
+  Investi:         0.0213 SOL
+  Recupere:        0.0175 SOL
+  PnL:             -0.0037 SOL  (-17.51%)
+
+  Duree:           2 min 2 sec
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771335891018_595owo
+                   paper_sell_1771336013324_a0siv0
+
+--- TRADE #4 --------------------------------------------------------
+  Token:           WUKONG
+  Adresse:         BfwN34mUjRZf31iF4XPe1wu3qzkPB1Rq58Zwn2YPpump
+  Score:           61
+  Resultat:        PERTE
+
+  Prix entree:     0.000000347 SOL
+  Prix sortie:     0.000000341 SOL
+  Investi:         0.0319 SOL
+  Recupere:        0.0299 SOL
+  PnL:             -0.0020 SOL  (-6.27%)
+
+  Duree:           2 min 28 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771336210875_0vfk0b
+                   paper_sell_1771336358493_vexl2l
+
+--- TRADE #5 --------------------------------------------------------
+  Token:           LiuLao
+  Adresse:         DbSczMbKztdC4pEero7q8oqW6T4AAjYirKLp5dTNpump
+  Score:           47
+  Resultat:        PERTE
+
+  Prix entree:     0.000000431 SOL
+  Prix sortie:     0.000000368 SOL
+  Investi:         0.0132 SOL
+  Recupere:        0.0109 SOL
+  PnL:             -0.0023 SOL  (-17.58%)
+
+  Duree:           1 min 12 sec
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771336691910_ad32q9
+                   paper_sell_1771336763883_lc7di2
+
+--- TRADE #6 --------------------------------------------------------
+  Token:           Momiage
+  Adresse:         2W8h21be5v6goTnXeFif1RVAhLNd3KfE1AyzSiqZTUz8
+  Score:           56
+  Resultat:        GAIN
+
+  Prix entree:     0.00006232 SOL
+  Prix sortie:     0.00011130 SOL
+  Investi:         0.0210 SOL
+  Recupere:        0.0305 SOL
+  PnL:             +0.0096 SOL  (+45.62%)
+
+  Duree:           10 min 47 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771336804165_fd275h
+                   paper_sell_1771337451111_h4q2wa
+
+--- TRADE #7 --------------------------------------------------------
+  Token:           BLOODNUT
+  Adresse:         HBJUeugfgJ3zWYMMP4cULbZ9bjnZbb6WG9cBcWNxpump
+  Score:           53
+  Resultat:        PERTE
+
+  Prix entree:     0.000000389 SOL
+  Prix sortie:     0.000000391 SOL
+  Investi:         0.0204 SOL
+  Recupere:        0.0195 SOL
+  PnL:             -0.0008 SOL  (-4.16%)
+
+  Duree:           23 secondes
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771337428468_2khvdz
+                   paper_sell_1771337451369_rdy9gs
+
+--- TRADE #8 --------------------------------------------------------
+  Token:           Chives
+  Adresse:         3MMCGgdt6cPXEzmzygQruBBrV4wbSkMVrb9nbVwE78D4
+  Score:           60
+  Resultat:        PERTE
+
+  Prix entree:     0.000000371 SOL
+  Prix sortie:     0.000000236 SOL
+  Investi:         0.0327 SOL
+  Recupere:        0.0261 SOL
+  PnL:             -0.0066 SOL  (-20.09%)
+
+  Duree:           45 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771338373590_spac9e
+                   paper_sell_1771338418791_dl5v1t
+
+--- TRADE #9 --------------------------------------------------------
+  Token:           ORNG
+  Adresse:         EBoPTHcReFYoZjwcURD1xNCgLeMk4fjdqoetXYB6pump
+  Score:           62
+  Resultat:        GAIN
+
+  Prix entree:     0.000000448 SOL
+  Prix sortie:     0.000000523 SOL
+  Investi:         0.0321 SOL
+  Recupere:        0.0367 SOL
+  PnL:             +0.0046 SOL  (+14.36%)
+
+  Duree:           11 min 13 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771338525414_a3cval
+                   paper_sell_1771339197974_n8rbio
+
+--- TRADE #10 -------------------------------------------------------
+  Token:           chives
+  Adresse:         GrVfGSbUbnVJ6hVr6tWAaaePFufcngMyzUSjX4nRpump
+  Score:           65
+  Resultat:        GAIN
+
+  Prix entree:     0.000000201 SOL
+  Prix sortie:     0.000000255 SOL
+  Investi:         0.0326 SOL
+  Recupere:        0.0394 SOL
+  PnL:             +0.0068 SOL  (+20.99%)
+
+  Duree:           1 min 35 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771339366347_7wz7qd
+                   paper_sell_1771339461668_2ju9ye
+
+--- TRADE #11 -------------------------------------------------------
+  Token:           Moe
+  Adresse:         AEtWwKRUfvgyMVDWLvNYgeTiVAC1YfRujmyssrG6pump
+  Score:           74
+  Resultat:        PERTE
+
+  Prix entree:     0.000000825 SOL
+  Prix sortie:     0.000000604 SOL
+  Investi:         0.0330 SOL
+  Recupere:        0.0268 SOL
+  PnL:             -0.0062 SOL  (-18.87%)
+
+  Duree:           21 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771339582452_70vxar
+                   paper_sell_1771339603308_vh14f4
+
+--- TRADE #12 -------------------------------------------------------
+  Token:           NWHK
+  Adresse:         rAcE3zjw22gAUFPfEprbde6s5JmwtJn3sTsZvznpump
+  Score:           72
+  Resultat:        PERTE
+
+  Prix entree:     0.000005449 SOL
+  Prix sortie:     0.000006105 SOL
+  Investi:         0.0326 SOL
+  Recupere:        0.0296 SOL
+  PnL:             -0.0030 SOL  (-9.25%)
+
+  Duree:           5 min 34 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771341191905_b7rn7b
+                   paper_sell_1771341526072_i7sc2t
+
+--- TRADE #13 -------------------------------------------------------
+  Token:           JMAIL
+  Adresse:         HVWtM4gjmVWmsffPKHoJ7y17XNUFnVoyuSTJY8oAfX6Y
+  Score:           52
+  Resultat:        GAIN
+
+  Prix entree:     0.00012699 SOL
+  Prix sortie:     0.00022890 SOL
+  Investi:         0.0219 SOL
+  Recupere:        0.0326 SOL
+  PnL:             +0.0107 SOL  (+48.88%)
+
+  Duree:           7 min 42 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771341712609_fc6djq
+                   paper_sell_1771342174390_y2j97e
+
+--- TRADE #14 -------------------------------------------------------
+  Token:           HODL
+  Adresse:         85SYbDKrffSFjK2gkYRkR1fS3EvNNTezVUojUNhGpump
+  Score:           69
+  Resultat:        PERTE
+
+  Prix entree:     0.00001652 SOL
+  Prix sortie:     0.00001434 SOL
+  Investi:         0.0325 SOL
+  Recupere:        0.0268 SOL
+  PnL:             -0.0057 SOL  (-17.48%)
+
+  Duree:           31 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771342681814_opaii6
+                   paper_sell_1771342712745_s9s9gw
+
+--- TRADE #15 -------------------------------------------------------
+  Token:           SAFEPUMP
+  Adresse:         5f6jAPiXHCqJV7QKM1DrjMJZkiwfumyoLHw9QPiipump
+  Score:           59
+  Resultat:        GAIN
+
+  Prix entree:     0.000000284 SOL
+  Prix sortie:     0.000000381 SOL
+  Investi:         0.0225 SOL
+  Recupere:        0.0250 SOL
+  PnL:             +0.0025 SOL  (+10.95%)
+
+  Duree:           1 min 53 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771342649355_pjiovf
+                   paper_sell_1771342762433_u60nby
+
+--- TRADE #16 -------------------------------------------------------
+  Token:           LAOLIU
+  Adresse:         GLpM7o51sEmRNzRAJVJh6cgzWHy9zvXXchCxWNCYpump
+  Score:           71
+  Resultat:        PERTE
+
+  Prix entree:     0.000000915 SOL
+  Prix sortie:     0.000000773 SOL
+  Investi:         0.0339 SOL
+  Recupere:        0.0275 SOL
+  PnL:             -0.0064 SOL  (-18.88%)
+
+  Duree:           26 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771342809196_6zshz5
+                   paper_sell_1771342834801_wpk9a8
+
+--- TRADE #17 -------------------------------------------------------
+  Token:           Company
+  Adresse:         9mm7bfbkkRDYAr3HnSgge5yQaBiieLuQeJVF54XFpump
+  Score:           69
+  Resultat:        PERTE
+
+  Prix entree:     0.000000650 SOL
+  Prix sortie:     0.000000599 SOL
+  Investi:         0.0335 SOL
+  Recupere:        0.0295 SOL
+  PnL:             -0.0041 SOL  (-12.08%)
+
+  Duree:           28 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771342841204_196fj1
+                   paper_sell_1771342869493_l5e6am
+
+--- TRADE #18 -------------------------------------------------------
+  Token:           PUMPMOON
+  Adresse:         6jjSfgpRFTU2PcwyLAdpyrMzJxT9h2FHJENqkdD5pump
+  Score:           70
+  Resultat:        GAIN
+
+  Prix entree:     0.000000481 SOL
+  Prix sortie:     0.000000896 SOL
+  Investi:         0.0333 SOL
+  Recupere:        0.0512 SOL
+  PnL:             +0.0179 SOL  (+53.87%)
+
+  Duree:           5 min 9 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771343466398_gh2ouy
+                   paper_sell_1771343775720_s7oi9p
+
+--- TRADE #19 -------------------------------------------------------
+  Token:           Startup
+  Adresse:         89knKRTShp4qoQtgUM9vbyaymKfucUHCumhY7bVKpump
+  Score:           65
+  Resultat:        GAIN
+
+  Prix entree:     0.000000264 SOL
+  Prix sortie:     0.000000409 SOL
+  Investi:         0.0308 SOL
+  Recupere:        0.0395 SOL
+  PnL:             +0.0087 SOL  (+28.30%)
+
+  Duree:           2 min 39 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344315149_ryx5zf
+                   paper_sell_1771344474531_inp2hu
+
+--- TRADE #20 -------------------------------------------------------
+  Token:           UBI
+  Adresse:         EYVJKAmMPCDQAhepGkq9eNrY4nWTJqMaCoBd44Sxpump
+  Score:           55
+  Resultat:        PERTE
+
+  Prix entree:     0.000000224 SOL
+  Prix sortie:     0.000000297 SOL
+  Investi:         0.0191 SOL
+  Recupere:        0.0171 SOL
+  PnL:             -0.0020 SOL  (-10.24%)
+
+  Duree:           24 secondes
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344451063_n1s32z
+                   paper_sell_1771344474788_2fejip
+
+--- TRADE #21 -------------------------------------------------------
+  Token:           401K
+  Adresse:         GELyKigHUhgQLgagmrkaX6Y7thcEQjN1jrEoBiKUpump
+  Score:           71
+  Resultat:        GAIN
+
+  Prix entree:     0.000000393 SOL
+  Prix sortie:     0.000000468 SOL
+  Investi:         0.0348 SOL
+  Recupere:        0.0401 SOL
+  PnL:             +0.0052 SOL  (+15.02%)
+
+  Duree:           8 min 7 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344106929_9nyx43
+                   paper_sell_1771344593589_5gsibd
+
+--- TRADE #22 -------------------------------------------------------
+  Token:           DEVLESS
+  Adresse:         Hkqt9pm7zJMA9oCQttVM35wG7cZwgQieCZKcNaKcpump
+  Score:           66
+  Resultat:        GAIN
+
+  Prix entree:     0.000000160 SOL
+  Prix sortie:     0.000000199 SOL
+  Investi:         0.0327 SOL
+  Recupere:        0.0395 SOL
+  PnL:             +0.0068 SOL  (+20.69%)
+
+  Duree:           5 min 59 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344234404_055406
+                   paper_sell_1771344593816_5djlzf
+
+--- TRADE #23 -------------------------------------------------------
+  Token:           GETUP
+  Adresse:         FyrXA1skpDbgZpT8rZ9TWxGPYmvn4eUocJh6bmNapump
+  Score:           48
+  Resultat:        GAIN (marginal)
+
+  Prix entree:     0.000000370 SOL
+  Prix sortie:     0.000000379 SOL
+  Investi:         0.0121 SOL
+  Recupere:        0.0121 SOL
+  PnL:             +0.00001 SOL  (+0.10%)
+
+  Duree:           4 min 15 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344339137_rcj9tt
+                   paper_sell_1771344594088_3u2d1k
+
+--- TRADE #24 -------------------------------------------------------
+  Token:           MAYAINU
+  Adresse:         EX7rhhNGdek4xz2mxbaG3aHXHCW518DziQhbUbkPpump
+  Score:           71
+  Resultat:        PERTE
+
+  Prix entree:     0.000001515 SOL
+  Prix sortie:     0.000001530 SOL
+  Investi:         0.0368 SOL
+  Recupere:        0.0358 SOL
+  PnL:             -0.0010 SOL  (-2.78%)
+
+  Duree:           1 min 35 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771344667096_84xynn
+                   paper_sell_1771344762524_qxya5e
+
+--- TRADE #25 -------------------------------------------------------
+  Token:           PASSIVE
+  Adresse:         GeXiWCQgxRVfsLPDG97uVTf8ZHk5yTGLF6bryC1Spump
+  Score:           68
+  Resultat:        GAIN
+
+  Prix entree:     0.000000478 SOL
+  Prix sortie:     0.000000633 SOL
+  Investi:         0.0368 SOL
+  Recupere:        0.0470 SOL
+  PnL:             +0.0103 SOL  (+27.90%)
+
+  Duree:           1 min 42 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771346116566_3n9zjg
+                   paper_sell_1771346219060_4q7uyj
+
+--- TRADE #26 -------------------------------------------------------
+  Token:           GOATSE
+  Adresse:         C9zfinUb64zqjQeTbhCAtiCJ9khMtPKmMkv3xXr8pump
+  Score:           65
+  Resultat:        GAIN
+
+  Prix entree:     0.000000330 SOL
+  Prix sortie:     0.000000393 SOL
+  Investi:         0.0374 SOL
+  Recupere:        0.0423 SOL
+  PnL:             +0.0049 SOL  (+13.17%)
+
+  Duree:           40 secondes
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771346340737_f8o89p
+                   paper_sell_1771346380588_nvgg81
+
+--- TRADE #27 -------------------------------------------------------
+  Token:           IMG
+  Adresse:         AK5HwmBQJAbhxvAnt8bes7dX1pQuWkSzeW2svntLpump
+  Score:           69
+  Resultat:        GAIN
+
+  Prix entree:     0.000000973 SOL
+  Prix sortie:     0.000001586 SOL
+  Investi:         0.0351 SOL
+  Recupere:        0.0472 SOL
+  PnL:             +0.0121 SOL  (+34.31%)
+
+  Duree:           3 min 41 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771346341683_5xqeg0
+                   paper_sell_1771346563133_0hndwl
+
+--- TRADE #28 -------------------------------------------------------
+  Token:           T2E
+  Adresse:         GwCMJMnD2Zop651cZUKatSj1Xw8wLEDy6eNngkyapump
+  Score:           54
+  Resultat:        PERTE
+
+  Prix entree:     0.000000218 SOL
+  Prix sortie:     0.000000186 SOL
+  Investi:         0.0259 SOL
+  Recupere:        0.0212 SOL
+  PnL:             -0.0047 SOL  (-18.13%)
+
+  Duree:           10 secondes (TRADE LE PLUS RAPIDE)
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771346613198_7woldm
+                   paper_sell_1771346623541_atyk8q
+
+--- TRADE #29 -------------------------------------------------------
+  Token:           BTN
+  Adresse:         85nuFKKCFRWHhVCV1jwmen3ewyqqAxtwUJ6FgRSMpump
+  Score:           78
+  Resultat:        GAIN
+
+  Prix entree:     0.000000505 SOL
+  Prix sortie:     0.000000658 SOL
+  Investi:         0.0373 SOL
+  Recupere:        0.0473 SOL
+  PnL:             +0.0100 SOL  (+26.73%)
+
+  Duree:           1 min 43 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771346614132_nr9o6e
+                   paper_sell_1771346717077_mykwlk
+
+--- TRADE #30 -------------------------------------------------------
+  Token:           CREAM
+  Adresse:         95QvX63rVEVZCZ5xdYjPcuWFnucYjXxDTiunzBWMpump
+  Score:           72
+  Resultat:        PERTE
+
+  Prix entree:     0.000000561 SOL
+  Prix sortie:     0.000000399 SOL
+  Investi:         0.0353 SOL
+  Recupere:        0.0290 SOL
+  PnL:             -0.0064 SOL  (-18.08%)
+
+  Duree:           1 min 24 sec
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771346869623_ydes05
+                   paper_sell_1771346953944_a3yy70
+
+--- TRADE #31 -------------------------------------------------------
+  Token:           BORDS
+  Adresse:         Na4HmsJdF1VwmJTHfgP1sRkTbKJoYbJhC6hLBBibord
+  Score:           70
+  Resultat:        PERTE
+
+  Prix entree:     0.000000859 SOL
+  Prix sortie:     0.000000637 SOL
+  Investi:         0.0376 SOL
+  Recupere:        0.0304 SOL
+  PnL:             -0.0072 SOL  (-19.16%)
+
+  Duree:           2 min 1 sec
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771346868753_budggd
+                   paper_sell_1771346990169_tk5kc1
+
+--- TRADE #32 -------------------------------------------------------
+  Token:           FLY
+  Adresse:         sNzThVQnkGbRUZDqA8ZBE1E3rt7SsexUtcNxddqGFLY
+  Score:           58
+  Resultat:        PERTE (marginale)
+
+  Prix entree:     0.000000289 SOL
+  Prix sortie:     0.000000296 SOL
+  Investi:         0.0261 SOL
+  Recupere:        0.0259 SOL
+  PnL:             -0.0002 SOL  (-0.62%)
+
+  Duree:           3 min 27 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771346804638_m0znd5
+                   paper_sell_1771347011287_vgztzi
+
+--- TRADE #33 -------------------------------------------------------
+  Token:           cashcow
+  Adresse:         9pKP7j1u5p6mN3SvAZFLGdGNUzgEGyJ2BDX13MkVpump
+  Score:           70
+  Resultat:        PERTE
+
+  Prix entree:     0.000001344 SOL
+  Prix sortie:     0.000000992 SOL
+  Investi:         0.0383 SOL
+  Recupere:        0.0312 SOL
+  PnL:             -0.0072 SOL  (-18.72%)
+
+  Duree:           29 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771347462085_aoemrg
+                   paper_sell_1771347490878_wydj68
+
+--- TRADE #34 -------------------------------------------------------
+  Token:           Momiage (#2)
+  Adresse:         4yz6YhkQvms8WFzBmnhoyxsabhsVnQciFp1Pharx3c4Y
+  Score:           52
+  Resultat:        GAIN (MEILLEUR TRADE EN %)
+
+  Prix entree:     0.00012545 SOL
+  Prix sortie:     0.00024280 SOL
+  Investi:         0.0243 SOL
+  Recupere:        0.0388 SOL
+  PnL:             +0.0145 SOL  (+59.76%)
+
+  Duree:           2 min 26 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771347517943_usltgk
+                   paper_sell_1771347664412_yeiy0a
+
+--- TRADE #35 -------------------------------------------------------
+  Token:           ROYALE
+  Adresse:         7jxG6MQah8c182J4LMsxFgAMrKSKdkfu7RZKGguopump
+  Score:           62
+  Resultat:        PERTE
+
+  Prix entree:     0.000000878 SOL
+  Prix sortie:     0.000000867 SOL
+  Investi:         0.0377 SOL
+  Recupere:        0.0356 SOL
+  PnL:             -0.0021 SOL  (-5.60%)
+
+  Duree:           1 min 21 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771348694218_zygwv7
+                   paper_sell_1771348775179_8zq7pp
+
+--- TRADE #36 -------------------------------------------------------
+  Token:           PFP
+  Adresse:         BER6zyYiKn8TQvYjaprYN1StL8bwnFur34qSMR2Xpump
+  Score:           61
+  Resultat:        GAIN
+
+  Prix entree:     0.000000379 SOL
+  Prix sortie:     0.000000481 SOL
+  Investi:         0.0375 SOL
+  Recupere:        0.0453 SOL
+  PnL:             +0.0078 SOL  (+20.78%)
+
+  Duree:           2 min 38 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771348830970_b9m8m1
+                   paper_sell_1771348989310_6nirrc
+
+--- TRADE #37 -------------------------------------------------------
+  Token:           HODL (#2)
+  Adresse:         CpRogNQW2M8y6B1YvqaMJ8uU7RxjwyzgYV3CCC5Epump
+  Score:           72
+  Resultat:        GAIN
+
+  Prix entree:     0.000000690 SOL
+  Prix sortie:     0.000000795 SOL
+  Investi:         0.0380 SOL
+  Recupere:        0.0424 SOL
+  PnL:             +0.0043 SOL  (+11.44%)
+
+  Duree:           1 min 10 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771349182908_bkm3i8
+                   paper_sell_1771349253251_hx12x0
+
+--- TRADE #38 -------------------------------------------------------
+  Token:           POLY
+  Adresse:         iM7iF5uqqnwFHo6kj4jHDrrBafeaPcCaVwb7mTmBAGS
+  Score:           56
+  Resultat:        PERTE
+
+  Prix entree:     0.000000490 SOL
+  Prix sortie:     0.000000446 SOL
+  Investi:         0.0255 SOL
+  Recupere:        0.0225 SOL
+  PnL:             -0.0030 SOL  (-11.92%)
+
+  Duree:           30 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771350151672_exarn3
+                   paper_sell_1771350181370_c8abef
+
+--- TRADE #39 -------------------------------------------------------
+  Token:           investinu
+  Adresse:         8qfzeFL7Fa7ctVg6U1P8kQopHa2c1ti9A4frqAF7pump
+  Score:           75
+  Resultat:        PERTE
+
+  Prix entree:     0.000000609 SOL
+  Prix sortie:     0.000000487 SOL
+  Investi:         0.0381 SOL
+  Recupere:        0.0310 SOL
+  PnL:             -0.0071 SOL  (-18.73%)
+
+  Duree:           26 secondes
+  Raison cloture:  STOP LOSS
+  Signatures TX:   paper_buy_1771351985482_pba26d
+                   paper_sell_1771352011673_rszj4u
+
+--- TRADE #40 -------------------------------------------------------
+  Token:           BestCoin
+  Adresse:         5DvWZndnzPx9Li7yGfC8wiAmzyEPqUzqHPEHtxEzpump
+  Score:           63
+  Resultat:        GAIN
+
+  Prix entree:     0.000000105 SOL
+  Prix sortie:     0.000000114 SOL
+  Investi:         0.0377 SOL
+  Recupere:        0.0393 SOL
+  PnL:             +0.0017 SOL  (+4.49%)
+
+  Duree:           1 min 3 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771352265382_3o2eip
+                   paper_sell_1771352328693_mxzm13
+
+--- TRADE #41 -------------------------------------------------------
+  Token:           Bingus
+  Adresse:         Bzqa4BPsnwXW3R5XehUagW7UJDMQX6VBMpypQ6pepump
+  Score:           78
+  Resultat:        GAIN
+
+  Prix entree:     0.000000557 SOL
+  Prix sortie:     0.000000675 SOL
+  Investi:         0.0378 SOL
+  Recupere:        0.0445 SOL
+  PnL:             +0.0068 SOL  (+17.92%)
+
+  Duree:           1 min 10 sec
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771355428398_406327
+                   paper_sell_1771355498122_x1kcsc
+
+--- TRADE #42 -------------------------------------------------------
+  Token:           Rigby
+  Adresse:         D11vY87Jp2cE91AaU66To8TMutG6HtYfZvDcnGb9pump
+  Score:           76
+  Resultat:        PERTE
+
+  Prix entree:     0.000000583 SOL
+  Prix sortie:     0.000000691 SOL
+  Investi:         0.0382 SOL
+  Recupere:        0.0370 SOL
+  PnL:             -0.0012 SOL  (-3.05%)
+
+  Duree:           2 min 9 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771355996688_cvmpy1
+                   paper_sell_1771356126128_bqqjzp
+
+--- TRADE #43 -------------------------------------------------------
+  Token:           Qi
+  Adresse:         D5dJDfVdCMVo6xJM352ANkdopjXPFvykS9joTfSivyyT
+  Score:           78
+  Resultat:        GAIN
+
+  Prix entree:     0.000000711 SOL
+  Prix sortie:     0.000000773 SOL
+  Investi:         0.0386 SOL
+  Recupere:        0.0407 SOL
+  PnL:             +0.0021 SOL  (+5.54%)
+
+  Duree:           30 secondes
+  Raison cloture:  DEAD VOLUME
+  Signatures TX:   paper_buy_1771356909903_l5ai2m
+                   paper_sell_1771356940217_197pvj
+
+--- TRADE #44 -------------------------------------------------------
+  Token:           cap
+  Adresse:         C95kaujiuk5bZ45RjL1Lgi358rXDjQzc8q2MYALHpump
+  Score:           64
+  Resultat:        PERTE
+
+  Prix entree:     0.000000237 SOL
+  Prix sortie:     0.000000190 SOL
+  Investi:         0.0387 SOL
+  Recupere:        0.0308 SOL
+  PnL:             -0.0079 SOL  (-20.42%)
+
+  Duree:           1 min 3 sec
+  Raison cloture:  TRAILING STOP
+  Signatures TX:   paper_buy_1771356990011_5rr0mz
+                   paper_sell_1771357053360_g98g4d
+
+================================================================================
+                         TOP 5 MEILLEURS TRADES
+================================================================================
+
+  1. Momiage #2 ........... +59.76%  (+0.0145 SOL)
+  2. PUMPMOON ............. +53.87%  (+0.0179 SOL)  <- Plus gros gain en SOL
+  3. JMAIL ................ +48.88%  (+0.0107 SOL)
+  4. Momiage #1 ........... +45.62%  (+0.0096 SOL)
+  5. IMG .................. +34.31%  (+0.0121 SOL)
+
+================================================================================
+                          TOP 5 PIRES TRADES
+================================================================================
+
+  1. cap .................. -20.42%  (-0.0079 SOL)  <- Plus grosse perte en SOL
+  2. Chives ............... -20.09%  (-0.0066 SOL)
+  3. BORDS ................ -19.16%  (-0.0072 SOL)
+  4. Moe .................. -18.87%  (-0.0062 SOL)
+  5. LAOLIU ............... -18.88%  (-0.0064 SOL)
+
+================================================================================
+                    ANALYSE PAR RAISON DE CLOTURE
+================================================================================
+
+  STOP LOSS (14 trades - 31.8% des trades)
+  ----------------------------------------
+  Resultats:     0 gain / 14 pertes (0% de reussite)
+  Perte moy:     -16.9%
+  Duree moy:     ~33 secondes
+  Commentaire:   Le stop loss coupe efficacement les pertes. Aucun
+                 faux signal positif. Toutes les sorties stop_loss
+                 sont bien des trades perdants.
+
+  TRAILING STOP (8 trades - 18.2% des trades)
+  --------------------------------------------
+  Resultats:     3 gains / 5 pertes (37.5% de reussite)
+  Gains:         JMAIL (+48.88%), PUMPMOON (+53.87%), SAFEPUMP (+10.95%)
+  Pertes:        WUKONG (-6.27%), NWHK (-9.25%), ROYALE (-5.60%),
+                 Rigby (-3.05%), cap (-20.42%)
+  Commentaire:   Performances mitigees. Le trailing stop semble parfois
+                 couper les gains trop tot ou laisser filer les pertes.
+
+  DEAD VOLUME (22 trades - 50% des trades)
+  -----------------------------------------
+  Resultats:     18 gains / 4 pertes (81.8% de reussite)
+  Gain moyen:    +20.3%
+  Pertes:        BLOODNUT (-4.16%), UBI (-10.24%), MAYAINU (-2.78%),
+                 FLY (-0.62%)
+  Commentaire:   Meilleure categorie. Le bot profite bien de la montee
+                 des tokens avant que le volume ne meure.
+
+================================================================================
+                       OBSERVATIONS ET CONCLUSIONS
+================================================================================
+
+  1. RENTABILITE GLOBALE: Le bot est rentable avec un PnL net de +0.0561 SOL
+     sur 44 trades, soit un ROI d'environ +4.1%. C'est positif mais modeste.
+
+  2. STRATEGIE ASYMETRIQUE: Le bot gagne grace a l'asymetrie des gains
+     vs pertes. Les gains moyens des trades gagnants (~+23%) depassent
+     les pertes moyennes (~-13%), compensant un winrate de seulement 47.7%.
+
+  3. STOP LOSS EFFICACE: Les 14 stop_loss sont tous des pertes reelles,
+     confirmant que le mecanisme est bien calibre pour couper les mauvais
+     trades rapidement (duree moyenne 33s).
+
+  4. DEAD VOLUME = MEILLEURE SORTIE: Avec 81.8% de reussite, la sortie
+     par dead_volume est la plus performante. Le bot laisse les tokens
+     monter jusqu'a ce que le volume s'effondre, capturant bien les gains.
+
+  5. TRAILING STOP A AMELIORER: Avec seulement 37.5% de reussite, le
+     trailing stop pourrait etre optimise (ecart plus large pour eviter
+     les sorties prematurees).
+
+  6. LE SCORE N'EST PAS PREDICTIF: Des trades a score eleve comme
+     investinu (75) et Moe (74) ont perdu, tandis que Momiage (52) et
+     JMAIL (52) ont realise les meilleurs gains.
+
+  7. TAILLE DES POSITIONS: Les mises varient entre 0.012 et 0.039 SOL,
+     avec une tendance a augmenter sur les trades recents.
+
+  8. TOUS EN PAPER TRADING: Toutes les transactions sont simulees.
+     En conditions reelles, le slippage et les frais de gas reduiraient
+     les performances.
+
+================================================================================
+                          FIN DU RAPPORT
+================================================================================

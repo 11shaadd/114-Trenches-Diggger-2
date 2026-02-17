@@ -1,0 +1,882 @@
+[
+  {
+    "id": "pos_1771335539462_wfy1",
+    "mintAddress": "Ef7rqaq7a2jAGNQnPTg7fkRcQtehxkhfQ7p8ov5Ppump",
+    "symbol": "PENNY",
+    "entryPriceSol": 0.0000013100935059866524,
+    "exitPriceSol": 0.000001174,
+    "investedSol": 0.0324,
+    "returnedSol": 0.027799681232447866,
+    "pnlSol": -0.004600318767552132,
+    "pnlPercent": -14.198514714667073,
+    "entryTime": 1771335539462,
+    "exitTime": 1771335568631,
+    "durationMs": 29169,
+    "score": 67,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771335539462_6b96k5",
+      "paper_sell_1771335568631_ln40ec"
+    ]
+  },
+  {
+    "id": "pos_1771335922551_rkot",
+    "mintAddress": "DeYfUpNducuzSAkinZpWh9FeFj3Y856d5AZamZ3Wpump",
+    "symbol": "William",
+    "entryPriceSol": 6.749375115501059e-7,
+    "exitPriceSol": 7.973e-7,
+    "investedSol": 0.030612349254914843,
+    "returnedSol": 0.034847430942088364,
+    "pnlSol": 0.004235081687173521,
+    "pnlPercent": 13.834553016193537,
+    "entryTime": 1771335922551,
+    "exitTime": 1771335969599,
+    "durationMs": 47048,
+    "score": 63,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771335922551_u1iizk",
+      "paper_sell_1771335969599_el2vr7"
+    ]
+  },
+  {
+    "id": "pos_1771335891018_lvwf",
+    "mintAddress": "AmP5WtXkrYGRUnuvG9QKYtBqJ1YtDwUK7xpx81gYpump",
+    "symbol": "Cashew",
+    "entryPriceSol": 4.5567403153802624e-7,
+    "exitPriceSol": 2.703e-7,
+    "investedSol": 0.02125178663585025,
+    "returnedSol": 0.017530221168036684,
+    "pnlSol": -0.0037215654678135653,
+    "pnlPercent": -17.511776922960205,
+    "entryTime": 1771335891018,
+    "exitTime": 1771336013324,
+    "durationMs": 122306,
+    "score": 55,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771335891018_595owo",
+      "paper_sell_1771336013324_a0siv0"
+    ]
+  },
+  {
+    "id": "pos_1771336210875_xt37",
+    "mintAddress": "BfwN34mUjRZf31iF4XPe1wu3qzkPB1Rq58Zwn2YPpump",
+    "symbol": "WUKONG",
+    "entryPriceSol": 3.4686009057498553e-7,
+    "exitPriceSol": 3.413e-7,
+    "investedSol": 0.03193577470501288,
+    "returnedSol": 0.029934856138239617,
+    "pnlSol": -0.0020009185667732646,
+    "pnlPercent": -6.265445523885116,
+    "entryTime": 1771336210875,
+    "exitTime": 1771336358493,
+    "durationMs": 147618,
+    "score": 61,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771336210875_0vfk0b",
+      "paper_sell_1771336358493_vexl2l"
+    ]
+  },
+  {
+    "id": "pos_1771336691910_w7zv",
+    "mintAddress": "DbSczMbKztdC4pEero7q8oqW6T4AAjYirKLp5dTNpump",
+    "symbol": "LiuLao",
+    "entryPriceSol": 4.3065177655674125e-7,
+    "exitPriceSol": 3.683e-7,
+    "investedSol": 0.013212377428221374,
+    "returnedSol": 0.010889149038188961,
+    "pnlSol": -0.0023232283900324127,
+    "pnlPercent": -17.583727097214492,
+    "entryTime": 1771336691910,
+    "exitTime": 1771336763883,
+    "durationMs": 71973,
+    "score": 47,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771336691910_ad32q9",
+      "paper_sell_1771336763883_lc7di2"
+    ]
+  },
+  {
+    "id": "pos_1771336804165_dtz7",
+    "mintAddress": "2W8h21be5v6goTnXeFif1RVAhLNd3KfE1AyzSiqZTUz8",
+    "symbol": "Momiage",
+    "entryPriceSol": 0.00006231875443930127,
+    "exitPriceSol": 0.0001113,
+    "investedSol": 0.020965484109058543,
+    "returnedSol": 0.030529872235611853,
+    "pnlSol": 0.00956438812655331,
+    "pnlPercent": 45.619686513324204,
+    "entryTime": 1771336804165,
+    "exitTime": 1771337451111,
+    "durationMs": 646946,
+    "score": 56,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771336804165_fd275h",
+      "paper_sell_1771337451111_h4q2wa"
+    ]
+  },
+  {
+    "id": "pos_1771337428469_ueen",
+    "mintAddress": "HBJUeugfgJ3zWYMMP4cULbZ9bjnZbb6WG9cBcWNxpump",
+    "symbol": "BLOODNUT",
+    "entryPriceSol": 3.890090454731731e-7,
+    "exitPriceSol": 3.913e-7,
+    "investedSol": 0.02038418188603343,
+    "returnedSol": 0.019537107395120736,
+    "pnlSol": -0.0008470744909126922,
+    "pnlPercent": -4.155548138495957,
+    "entryTime": 1771337428469,
+    "exitTime": 1771337451369,
+    "durationMs": 22900,
+    "score": 53,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771337428468_2khvdz",
+      "paper_sell_1771337451369_rdy9gs"
+    ]
+  },
+  {
+    "id": "pos_1771338373590_tax1",
+    "mintAddress": "3MMCGgdt6cPXEzmzygQruBBrV4wbSkMVrb9nbVwE78D4",
+    "symbol": "Chives",
+    "entryPriceSol": 3.708724369611621e-7,
+    "exitPriceSol": 2.361e-7,
+    "investedSol": 0.03270587705543377,
+    "returnedSol": 0.02613609110476261,
+    "pnlSol": -0.0065697859506711614,
+    "pnlPercent": -20.087478282682696,
+    "entryTime": 1771338373590,
+    "exitTime": 1771338418791,
+    "durationMs": 45201,
+    "score": 60,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771338373590_spac9e",
+      "paper_sell_1771338418791_dl5v1t"
+    ]
+  },
+  {
+    "id": "pos_1771338525415_ouv2",
+    "mintAddress": "EBoPTHcReFYoZjwcURD1xNCgLeMk4fjdqoetXYB6pump",
+    "symbol": "ORNG",
+    "entryPriceSol": 4.4757592160026373e-7,
+    "exitPriceSol": 5.233e-7,
+    "investedSol": 0.03206306988150685,
+    "returnedSol": 0.03666624623166157,
+    "pnlSol": 0.004603176350154718,
+    "pnlPercent": 14.356630126704465,
+    "entryTime": 1771338525415,
+    "exitTime": 1771339197974,
+    "durationMs": 672559,
+    "score": 62,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771338525414_a3cval",
+      "paper_sell_1771339197974_n8rbio"
+    ]
+  },
+  {
+    "id": "pos_1771339366347_ekz1",
+    "mintAddress": "GrVfGSbUbnVJ6hVr6tWAaaePFufcngMyzUSjX4nRpump",
+    "symbol": "chives",
+    "entryPriceSol": 2.0058187926790869e-7,
+    "exitPriceSol": 2.554e-7,
+    "investedSol": 0.03258714826812894,
+    "returnedSol": 0.03942658765711344,
+    "pnlSol": 0.0068394393889845,
+    "pnlPercent": 20.988149477546173,
+    "entryTime": 1771339366347,
+    "exitTime": 1771339461668,
+    "durationMs": 95321,
+    "score": 65,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771339366347_7wz7qd",
+      "paper_sell_1771339461668_2ju9ye"
+    ]
+  },
+  {
+    "id": "pos_1771339582452_d4kv",
+    "mintAddress": "AEtWwKRUfvgyMVDWLvNYgeTiVAC1YfRujmyssrG6pump",
+    "symbol": "Moe",
+    "entryPriceSol": 8.246367702408948e-7,
+    "exitPriceSol": 6.035e-7,
+    "investedSol": 0.032998246842741864,
+    "returnedSol": 0.026770655932592934,
+    "pnlSol": -0.00622759091014893,
+    "pnlPercent": -18.87249022600339,
+    "entryTime": 1771339582452,
+    "exitTime": 1771339603308,
+    "durationMs": 20856,
+    "score": 74,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771339582452_70vxar",
+      "paper_sell_1771339603308_vh14f4"
+    ]
+  },
+  {
+    "id": "pos_1771341191905_bwqn",
+    "mintAddress": "rAcE3zjw22gAUFPfEprbde6s5JmwtJn3sTsZvznpump",
+    "symbol": "NWHK",
+    "entryPriceSol": 0.000005448813364770384,
+    "exitPriceSol": 0.000006105,
+    "investedSol": 0.03262459138813292,
+    "returnedSol": 0.02960715593643685,
+    "pnlSol": -0.0030174354516960718,
+    "pnlPercent": -9.248960135003111,
+    "entryTime": 1771341191905,
+    "exitTime": 1771341526072,
+    "durationMs": 334167,
+    "score": 72,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771341191905_b7rn7b",
+      "paper_sell_1771341526072_i7sc2t"
+    ]
+  },
+  {
+    "id": "pos_1771341712609_jogi",
+    "mintAddress": "HVWtM4gjmVWmsffPKHoJ7y17XNUFnVoyuSTJY8oAfX6Y",
+    "symbol": "JMAIL",
+    "entryPriceSol": 0.0001269944953780117,
+    "exitPriceSol": 0.0002289,
+    "investedSol": 0.021905308431863394,
+    "returnedSol": 0.03261357014911826,
+    "pnlSol": 0.010708261717254867,
+    "pnlPercent": 48.88432295104625,
+    "entryTime": 1771341712609,
+    "exitTime": 1771342174390,
+    "durationMs": 461781,
+    "score": 52,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771341712609_fc6djq",
+      "paper_sell_1771342174390_y2j97e"
+    ]
+  },
+  {
+    "id": "pos_1771342681815_xprl",
+    "mintAddress": "85SYbDKrffSFjK2gkYRkR1fS3EvNNTezVUojUNhGpump",
+    "symbol": "HODL",
+    "entryPriceSol": 0.000016520606281721537,
+    "exitPriceSol": 0.00001434,
+    "investedSol": 0.03245259058792692,
+    "returnedSol": 0.02677924522587593,
+    "pnlSol": -0.00567334536205099,
+    "pnlPercent": -17.481949081012964,
+    "entryTime": 1771342681815,
+    "exitTime": 1771342712745,
+    "durationMs": 30930,
+    "score": 69,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771342681814_opaii6",
+      "paper_sell_1771342712745_s9s9gw"
+    ]
+  },
+  {
+    "id": "pos_1771342649355_p6et",
+    "mintAddress": "5f6jAPiXHCqJV7QKM1DrjMJZkiwfumyoLHw9QPiipump",
+    "symbol": "SAFEPUMP",
+    "entryPriceSol": 2.8386441390986603e-7,
+    "exitPriceSol": 3.814e-7,
+    "investedSol": 0.02253652124161591,
+    "returnedSol": 0.025005049920325408,
+    "pnlSol": 0.002468528678709496,
+    "pnlPercent": 10.953459286125819,
+    "entryTime": 1771342649355,
+    "exitTime": 1771342762433,
+    "durationMs": 113078,
+    "score": 59,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771342649355_pjiovf",
+      "paper_sell_1771342762433_u60nby"
+    ]
+  },
+  {
+    "id": "pos_1771342809196_8okp",
+    "mintAddress": "GLpM7o51sEmRNzRAJVJh6cgzWHy9zvXXchCxWNCYpump",
+    "symbol": "LAOLIU",
+    "entryPriceSol": 9.150717790353392e-7,
+    "exitPriceSol": 7.734e-7,
+    "investedSol": 0.03391859005109213,
+    "returnedSol": 0.027513095084259198,
+    "pnlSol": -0.006405494966832931,
+    "pnlPercent": -18.88490929954408,
+    "entryTime": 1771342809196,
+    "exitTime": 1771342834801,
+    "durationMs": 25605,
+    "score": 71,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771342809196_6zshz5",
+      "paper_sell_1771342834801_wpk9a8"
+    ]
+  },
+  {
+    "id": "pos_1771342841204_ybph",
+    "mintAddress": "9mm7bfbkkRDYAr3HnSgge5yQaBiieLuQeJVF54XFpump",
+    "symbol": "Company",
+    "entryPriceSol": 6.501805417366988e-7,
+    "exitPriceSol": 5.99e-7,
+    "investedSol": 0.03353426035308216,
+    "returnedSol": 0.02948470722328678,
+    "pnlSol": -0.004049553129795377,
+    "pnlPercent": -12.07586834227933,
+    "entryTime": 1771342841204,
+    "exitTime": 1771342869493,
+    "durationMs": 28289,
+    "score": 69,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771342841204_196fj1",
+      "paper_sell_1771342869493_l5e6am"
+    ]
+  },
+  {
+    "id": "pos_1771343466399_zb6r",
+    "mintAddress": "6jjSfgpRFTU2PcwyLAdpyrMzJxT9h2FHJENqkdD5pump",
+    "symbol": "PUMPMOON",
+    "entryPriceSol": 4.812534495841078e-7,
+    "exitPriceSol": 8.961e-7,
+    "investedSol": 0.03329128716529444,
+    "returnedSol": 0.0512249127560595,
+    "pnlSol": 0.017933625590765057,
+    "pnlPercent": 53.86882610372763,
+    "entryTime": 1771343466399,
+    "exitTime": 1771343775720,
+    "durationMs": 309321,
+    "score": 70,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771343466398_gh2ouy",
+      "paper_sell_1771343775720_s7oi9p"
+    ]
+  },
+  {
+    "id": "pos_1771344315150_3fmc",
+    "mintAddress": "89knKRTShp4qoQtgUM9vbyaymKfucUHCumhY7bVKpump",
+    "symbol": "Startup",
+    "entryPriceSol": 2.640182433719204e-7,
+    "exitPriceSol": 4.085e-7,
+    "investedSol": 0.03078371685987999,
+    "returnedSol": 0.03949671716504724,
+    "pnlSol": 0.008713000305167251,
+    "pnlPercent": 28.303925561772523,
+    "entryTime": 1771344315150,
+    "exitTime": 1771344474531,
+    "durationMs": 159381,
+    "score": 65,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344315149_ryx5zf",
+      "paper_sell_1771344474531_inp2hu"
+    ]
+  },
+  {
+    "id": "pos_1771344451063_b5fg",
+    "mintAddress": "EYVJKAmMPCDQAhepGkq9eNrY4nWTJqMaCoBd44Sxpump",
+    "symbol": "UBI",
+    "entryPriceSol": 2.2427561648850973e-7,
+    "exitPriceSol": 2.968e-7,
+    "investedSol": 0.019086684097657527,
+    "returnedSol": 0.01713241196148105,
+    "pnlSol": -0.0019542721361764763,
+    "pnlPercent": -10.23892953944955,
+    "entryTime": 1771344451063,
+    "exitTime": 1771344474788,
+    "durationMs": 23725,
+    "score": 55,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344451063_n1s32z",
+      "paper_sell_1771344474788_2fejip"
+    ]
+  },
+  {
+    "id": "pos_1771344106930_xbgy",
+    "mintAddress": "GELyKigHUhgQLgagmrkaX6Y7thcEQjN1jrEoBiKUpump",
+    "symbol": "401K",
+    "entryPriceSol": 3.927107922357787e-7,
+    "exitPriceSol": 4.679e-7,
+    "investedSol": 0.034838973358850146,
+    "returnedSol": 0.0400702594053109,
+    "pnlSol": 0.005231286046460754,
+    "pnlPercent": 15.015614819005135,
+    "entryTime": 1771344106930,
+    "exitTime": 1771344593589,
+    "durationMs": 486659,
+    "score": 71,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344106929_9nyx43",
+      "paper_sell_1771344593589_5gsibd"
+    ]
+  },
+  {
+    "id": "pos_1771344234405_0s4y",
+    "mintAddress": "Hkqt9pm7zJMA9oCQttVM35wG7cZwgQieCZKcNaKcpump",
+    "symbol": "DEVLESS",
+    "entryPriceSol": 1.5981427420606193e-7,
+    "exitPriceSol": 1.991e-7,
+    "investedSol": 0.03274863495731914,
+    "returnedSol": 0.039524017722814705,
+    "pnlSol": 0.006775382765495566,
+    "pnlPercent": 20.68905398446632,
+    "entryTime": 1771344234405,
+    "exitTime": 1771344593816,
+    "durationMs": 359411,
+    "score": 66,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344234404_055406",
+      "paper_sell_1771344593816_5djlzf"
+    ]
+  },
+  {
+    "id": "pos_1771344339138_wp7x",
+    "mintAddress": "FyrXA1skpDbgZpT8rZ9TWxGPYmvn4eUocJh6bmNapump",
+    "symbol": "GETUP",
+    "entryPriceSol": 3.70261449694002e-7,
+    "exitPriceSol": 3.793e-7,
+    "investedSol": 0.012056955770119664,
+    "returnedSol": 0.012069459072989862,
+    "pnlSol": 0.000012503302870198185,
+    "pnlPercent": 0.10370198836745083,
+    "entryTime": 1771344339138,
+    "exitTime": 1771344594088,
+    "durationMs": 254950,
+    "score": 48,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344339137_rcj9tt",
+      "paper_sell_1771344594088_3u2d1k"
+    ]
+  },
+  {
+    "id": "pos_1771344667096_m1og",
+    "mintAddress": "EX7rhhNGdek4xz2mxbaG3aHXHCW518DziQhbUbkPpump",
+    "symbol": "MAYAINU",
+    "entryPriceSol": 0.0000015148197789401022,
+    "exitPriceSol": 0.00000153,
+    "investedSol": 0.03682334021561969,
+    "returnedSol": 0.035799742612754565,
+    "pnlSol": -0.001023597602865127,
+    "pnlPercent": -2.7797521812834844,
+    "entryTime": 1771344667096,
+    "exitTime": 1771344762524,
+    "durationMs": 95428,
+    "score": 71,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771344667096_84xynn",
+      "paper_sell_1771344762524_qxya5e"
+    ]
+  },
+  {
+    "id": "pos_1771346116566_vm64",
+    "mintAddress": "GeXiWCQgxRVfsLPDG97uVTf8ZHk5yTGLF6bryC1Spump",
+    "symbol": "PASSIVE",
+    "entryPriceSol": 4.775314400147294e-7,
+    "exitPriceSol": 6.325e-7,
+    "investedSol": 0.03676192435944778,
+    "returnedSol": 0.04701752764634484,
+    "pnlSol": 0.010255603286897064,
+    "pnlPercent": 27.897351582089808,
+    "entryTime": 1771346116566,
+    "exitTime": 1771346219060,
+    "durationMs": 102494,
+    "score": 68,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771346116566_3n9zjg",
+      "paper_sell_1771346219060_4q7uyj"
+    ]
+  },
+  {
+    "id": "pos_1771346340737_u7sl",
+    "mintAddress": "C9zfinUb64zqjQeTbhCAtiCJ9khMtPKmMkv3xXr8pump",
+    "symbol": "GOATSE",
+    "entryPriceSol": 3.301519556279548e-7,
+    "exitPriceSol": 3.927e-7,
+    "investedSol": 0.0373772605566616,
+    "returnedSol": 0.04230155556107991,
+    "pnlSol": 0.004924295004418308,
+    "pnlPercent": 13.174574409896584,
+    "entryTime": 1771346340737,
+    "exitTime": 1771346380588,
+    "durationMs": 39851,
+    "score": 65,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771346340737_f8o89p",
+      "paper_sell_1771346380588_nvgg81"
+    ]
+  },
+  {
+    "id": "pos_1771346341683_zkyk",
+    "mintAddress": "AK5HwmBQJAbhxvAnt8bes7dX1pQuWkSzeW2svntLpump",
+    "symbol": "IMG",
+    "entryPriceSol": 9.730222769644569e-7,
+    "exitPriceSol": 0.000001586,
+    "investedSol": 0.03513462492326191,
+    "returnedSol": 0.0471893360129615,
+    "pnlSol": 0.01205471108969959,
+    "pnlPercent": 34.31006056284499,
+    "entryTime": 1771346341683,
+    "exitTime": 1771346563133,
+    "durationMs": 221450,
+    "score": 69,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771346341683_5xqeg0",
+      "paper_sell_1771346563133_0hndwl"
+    ]
+  },
+  {
+    "id": "pos_1771346613198_m02h",
+    "mintAddress": "GwCMJMnD2Zop651cZUKatSj1Xw8wLEDy6eNngkyapump",
+    "symbol": "T2E",
+    "entryPriceSol": 2.1754939000071148e-7,
+    "exitPriceSol": 1.862e-7,
+    "investedSol": 0.025900674097278555,
+    "returnedSol": 0.021205874105115024,
+    "pnlSol": -0.004694799992163531,
+    "pnlPercent": -18.12616912799511,
+    "entryTime": 1771346613198,
+    "exitTime": 1771346623541,
+    "durationMs": 10343,
+    "score": 54,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771346613198_7woldm",
+      "paper_sell_1771346623541_atyk8q"
+    ]
+  },
+  {
+    "id": "pos_1771346614133_nqym",
+    "mintAddress": "85nuFKKCFRWHhVCV1jwmen3ewyqqAxtwUJ6FgRSMpump",
+    "symbol": "BTN",
+    "entryPriceSol": 5.04675838481322e-7,
+    "exitPriceSol": 6.576e-7,
+    "investedSol": 0.03729697070008111,
+    "returnedSol": 0.04726820623896707,
+    "pnlSol": 0.009971235538885959,
+    "pnlPercent": 26.734706201928283,
+    "entryTime": 1771346614133,
+    "exitTime": 1771346717077,
+    "durationMs": 102944,
+    "score": 78,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771346614132_nr9o6e",
+      "paper_sell_1771346717077_mykwlk"
+    ]
+  },
+  {
+    "id": "pos_1771346869623_57r9",
+    "mintAddress": "95QvX63rVEVZCZ5xdYjPcuWFnucYjXxDTiunzBWMpump",
+    "symbol": "CREAM ",
+    "entryPriceSol": 5.609325684181065e-7,
+    "exitPriceSol": 3.994e-7,
+    "investedSol": 0.03534483978431799,
+    "returnedSol": 0.02895589799722384,
+    "pnlSol": -0.006388941787094149,
+    "pnlPercent": -18.076024183674,
+    "entryTime": 1771346869623,
+    "exitTime": 1771346953944,
+    "durationMs": 84321,
+    "score": 72,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771346869623_ydes05",
+      "paper_sell_1771346953944_a3yy70"
+    ]
+  },
+  {
+    "id": "pos_1771346868753_qsz2",
+    "mintAddress": "Na4HmsJdF1VwmJTHfgP1sRkTbKJoYbJhC6hLBBibord",
+    "symbol": "BORDS",
+    "entryPriceSol": 8.587530598583285e-7,
+    "exitPriceSol": 6.367e-7,
+    "investedSol": 0.037600893387572325,
+    "returnedSol": 0.0303971194715229,
+    "pnlSol": -0.007203773916049424,
+    "pnlPercent": -19.15851796869907,
+    "entryTime": 1771346868753,
+    "exitTime": 1771346990169,
+    "durationMs": 121416,
+    "score": 70,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771346868753_budggd",
+      "paper_sell_1771346990169_tk5kc1"
+    ]
+  },
+  {
+    "id": "pos_1771346804639_wma9",
+    "mintAddress": "sNzThVQnkGbRUZDqA8ZBE1E3rt7SsexUtcNxddqGFLY",
+    "symbol": "FLY",
+    "entryPriceSol": 2.88964448989745e-7,
+    "exitPriceSol": 2.957e-7,
+    "investedSol": 0.026111731519147446,
+    "returnedSol": 0.0259498577771901,
+    "pnlSol": -0.00016187374195734613,
+    "pnlPercent": -0.6199272608124279,
+    "entryTime": 1771346804639,
+    "exitTime": 1771347011287,
+    "durationMs": 206648,
+    "score": 58,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771346804638_m0znd5",
+      "paper_sell_1771347011287_vgztzi"
+    ]
+  },
+  {
+    "id": "pos_1771347462086_5gc8",
+    "mintAddress": "9pKP7j1u5p6mN3SvAZFLGdGNUzgEGyJ2BDX13MkVpump",
+    "symbol": "cashcow",
+    "entryPriceSol": 0.0000013444844775327584,
+    "exitPriceSol": 9.915e-7,
+    "investedSol": 0.03834232191201511,
+    "returnedSol": 0.031165081920046175,
+    "pnlSol": -0.0071772399919689325,
+    "pnlPercent": -18.718845479516574,
+    "entryTime": 1771347462086,
+    "exitTime": 1771347490878,
+    "durationMs": 28792,
+    "score": 70,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771347462085_aoemrg",
+      "paper_sell_1771347490878_wydj68"
+    ]
+  },
+  {
+    "id": "pos_1771347517943_8eif",
+    "mintAddress": "4yz6YhkQvms8WFzBmnhoyxsabhsVnQciFp1Pharx3c4Y",
+    "symbol": "Momiage",
+    "entryPriceSol": 0.0001254547118162779,
+    "exitPriceSol": 0.0002428,
+    "investedSol": 0.024263480007998064,
+    "returnedSol": 0.03876419878062892,
+    "pnlSol": 0.014500718772630858,
+    "pnlPercent": 59.76355727970979,
+    "entryTime": 1771347517943,
+    "exitTime": 1771347664412,
+    "durationMs": 146469,
+    "score": 52,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771347517943_usltgk",
+      "paper_sell_1771347664412_yeiy0a"
+    ]
+  },
+  {
+    "id": "pos_1771348694218_hpkt",
+    "mintAddress": "7jxG6MQah8c182J4LMsxFgAMrKSKdkfu7RZKGguopump",
+    "symbol": "ROYALE",
+    "entryPriceSol": 8.775517788553299e-7,
+    "exitPriceSol": 8.665e-7,
+    "investedSol": 0.03766664901389666,
+    "returnedSol": 0.0355554907793648,
+    "pnlSol": -0.002111158234531861,
+    "pnlPercent": -5.604847497193006,
+    "entryTime": 1771348694218,
+    "exitTime": 1771348775179,
+    "durationMs": 80961,
+    "score": 62,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771348694218_zygwv7",
+      "paper_sell_1771348775179_8zq7pp"
+    ]
+  },
+  {
+    "id": "pos_1771348830971_yjb4",
+    "mintAddress": "BER6zyYiKn8TQvYjaprYN1StL8bwnFur34qSMR2Xpump",
+    "symbol": "PFP",
+    "entryPriceSol": 3.7948402665336405e-7,
+    "exitPriceSol": 4.807e-7,
+    "investedSol": 0.03753997951982476,
+    "returnedSol": 0.04534108925095727,
+    "pnlSol": 0.007801109731132509,
+    "pnlPercent": 20.78080444080361,
+    "entryTime": 1771348830971,
+    "exitTime": 1771348989310,
+    "durationMs": 158339,
+    "score": 61,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771348830970_b9m8m1",
+      "paper_sell_1771348989310_6nirrc"
+    ]
+  },
+  {
+    "id": "pos_1771349182908_cyfr",
+    "mintAddress": "CpRogNQW2M8y6B1YvqaMJ8uU7RxjwyzgYV3CCC5Epump",
+    "symbol": "HODL",
+    "entryPriceSol": 6.903666441497224e-7,
+    "exitPriceSol": 7.95e-7,
+    "investedSol": 0.0380080461036927,
+    "returnedSol": 0.04235439470287441,
+    "pnlSol": 0.004346348599181711,
+    "pnlPercent": 11.435338157936613,
+    "entryTime": 1771349182908,
+    "exitTime": 1771349253251,
+    "durationMs": 70343,
+    "score": 72,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771349182908_bkm3i8",
+      "paper_sell_1771349253251_hx12x0"
+    ]
+  },
+  {
+    "id": "pos_1771350151672_5tpq",
+    "mintAddress": "iM7iF5uqqnwFHo6kj4jHDrrBafeaPcCaVwb7mTmBAGS",
+    "symbol": "POLY",
+    "entryPriceSol": 4.898137248034657e-7,
+    "exitPriceSol": 4.456e-7,
+    "investedSol": 0.02551255134642907,
+    "returnedSol": 0.022471102416544195,
+    "pnlSol": -0.003041448929884876,
+    "pnlPercent": -11.921382885567736,
+    "entryTime": 1771350151672,
+    "exitTime": 1771350181371,
+    "durationMs": 29699,
+    "score": 56,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771350151672_exarn3",
+      "paper_sell_1771350181370_c8abef"
+    ]
+  },
+  {
+    "id": "pos_1771351985482_2p6l",
+    "mintAddress": "8qfzeFL7Fa7ctVg6U1P8kQopHa2c1ti9A4frqAF7pump",
+    "symbol": "investinu",
+    "entryPriceSol": 6.092268190480693e-7,
+    "exitPriceSol": 4.868e-7,
+    "investedSol": 0.038086340083850506,
+    "returnedSol": 0.03095171330077098,
+    "pnlSol": -0.007134626783079526,
+    "pnlPercent": -18.732770771284414,
+    "entryTime": 1771351985482,
+    "exitTime": 1771352011673,
+    "durationMs": 26191,
+    "score": 75,
+    "closeReason": "stop_loss",
+    "txSignatures": [
+      "paper_buy_1771351985482_pba26d",
+      "paper_sell_1771352011673_rszj4u"
+    ]
+  },
+  {
+    "id": "pos_1771352265382_idnk",
+    "mintAddress": "5DvWZndnzPx9Li7yGfC8wiAmzyEPqUzqHPEHtxEzpump",
+    "symbol": "BestCoin",
+    "entryPriceSol": 1.0527352332634087e-7,
+    "exitPriceSol": 1.137e-7,
+    "investedSol": 0.037658262476865746,
+    "returnedSol": 0.03934902988750802,
+    "pnlSol": 0.001690767410642273,
+    "pnlPercent": 4.489764793797766,
+    "entryTime": 1771352265382,
+    "exitTime": 1771352328693,
+    "durationMs": 63311,
+    "score": 63,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771352265382_3o2eip",
+      "paper_sell_1771352328693_mxzm13"
+    ]
+  },
+  {
+    "id": "pos_1771355428398_048u",
+    "mintAddress": "Bzqa4BPsnwXW3R5XehUagW7UJDMQX6VBMpypQ6pepump",
+    "symbol": "Bingus",
+    "entryPriceSol": 5.565665723093532e-7,
+    "exitPriceSol": 6.748e-7,
+    "investedSol": 0.03775970852150427,
+    "returnedSol": 0.044528112014856576,
+    "pnlSol": 0.006768403493352303,
+    "pnlPercent": 17.924935753933788,
+    "entryTime": 1771355428398,
+    "exitTime": 1771355498122,
+    "durationMs": 69724,
+    "score": 78,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771355428398_406327",
+      "paper_sell_1771355498122_x1kcsc"
+    ]
+  },
+  {
+    "id": "pos_1771355996688_8p1c",
+    "mintAddress": "D11vY87Jp2cE91AaU66To8TMutG6HtYfZvDcnGb9pump",
+    "symbol": "Rigby",
+    "entryPriceSol": 5.834484794411574e-7,
+    "exitPriceSol": 6.908e-7,
+    "investedSol": 0.03816581273110541,
+    "returnedSol": 0.03700312134735089,
+    "pnlSol": -0.0011626913837545216,
+    "pnlPercent": -3.046421130728129,
+    "entryTime": 1771355996688,
+    "exitTime": 1771356126128,
+    "durationMs": 129440,
+    "score": 76,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771355996688_cvmpy1",
+      "paper_sell_1771356126128_bqqjzp"
+    ]
+  },
+  {
+    "id": "pos_1771356909903_p5h7",
+    "mintAddress": "D5dJDfVdCMVo6xJM352ANkdopjXPFvykS9joTfSivyyT",
+    "symbol": "Qi",
+    "entryPriceSol": 7.105780171053502e-7,
+    "exitPriceSol": 7.733e-7,
+    "investedSol": 0.038601031772321964,
+    "returnedSol": 0.04074034593308907,
+    "pnlSol": 0.0021393141607671043,
+    "pnlPercent": 5.5421165252402735,
+    "entryTime": 1771356909903,
+    "exitTime": 1771356940217,
+    "durationMs": 30314,
+    "score": 78,
+    "closeReason": "dead_volume",
+    "txSignatures": [
+      "paper_buy_1771356909903_l5ai2m",
+      "paper_sell_1771356940217_197pvj"
+    ]
+  },
+  {
+    "id": "pos_1771356990011_705p",
+    "mintAddress": "C95kaujiuk5bZ45RjL1Lgi358rXDjQzc8q2MYALHpump",
+    "symbol": "cap",
+    "entryPriceSol": 2.3713687287602392e-7,
+    "exitPriceSol": 1.903e-7,
+    "investedSol": 0.038729390621967986,
+    "returnedSol": 0.030821830230379165,
+    "pnlSol": -0.007907560391588821,
+    "pnlPercent": -20.41746659216351,
+    "entryTime": 1771356990011,
+    "exitTime": 1771357053360,
+    "durationMs": 63349,
+    "score": 64,
+    "closeReason": "trailing_stop",
+    "txSignatures": [
+      "paper_buy_1771356990011_5rr0mz",
+      "paper_sell_1771357053360_g98g4d"
+    ]
+  }
+]
